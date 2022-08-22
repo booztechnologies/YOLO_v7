@@ -81,6 +81,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.env
+.env/
 env/
 build/
 develop-eggs/
@@ -205,6 +207,7 @@ Icon?
 Network Trash Folder
 Temporary Items
 .apdisk
+weights
 
 
 # https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
@@ -261,3 +264,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+yolo_v7.code-workspace
